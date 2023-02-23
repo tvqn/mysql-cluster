@@ -1,5 +1,5 @@
 # Mysql-cluster
-[Architure](./fig/architure.png)
+![Architure](./fig/architure.png)
 ## Setup enviroment
 Moount to cluster-mysql folder to deploy docker container
 ```
