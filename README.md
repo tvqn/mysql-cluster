@@ -1,5 +1,5 @@
 # Mysql-cluster
-![Architure](./fig/architure.png)
+[Architure](./fig/architure.png)
 ## Setup enviroment
 Moount to cluster-mysql folder to deploy docker container
 ```
@@ -25,5 +25,6 @@ Access Denied for User 'root'@'localhost' (using password: YES)
 Restart several times to pass bug or find how to fix. [Currently, I can not fix :(((]
 
 ## Reference
-Source: [rsegecin - mysql-cluster](https://github.com/rsegecin/mysql-cluster)
-[NDB Cluster Overview](https://docs.oracle.com/cd/E17952_01/mysql-5.6-en/mysql-cluster-overview.html)
+Source reference: [rsegecin - mysql-cluster](https://github.com/rsegecin/mysql-cluster)
+
+Document: [NDB Cluster Overview](https://docs.oracle.com/cd/E17952_01/mysql-5.6-en/mysql-cluster-overview.html)
