@@ -1,13 +1,13 @@
 # Mysql-cluster
 ![Architure](./fig/architure.png)
 ## Setup enviroment
-Moount to cluster-mysql folder to deploy docker container
+Move to cluster-mysql folder to deploy docker container
 ```
 cd cluster-mysql
 ```
 1. Build image 
 ```
-docker build -t mysql-cluster .docker 
+docker build -t mysql-cluster .
 ```
 2. Deploy docker-compose.yml
 ```
